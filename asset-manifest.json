@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Priyanshu-s9/newsonline.git/static/css/main.557dfcf0.chunk.css",
+    "main.js": "/Priyanshu-s9/newsonline.git/static/js/main.32223722.chunk.js",
+    "main.js.map": "/Priyanshu-s9/newsonline.git/static/js/main.32223722.chunk.js.map",
+    "runtime-main.js": "/Priyanshu-s9/newsonline.git/static/js/runtime-main.88c1ce26.js",
+    "runtime-main.js.map": "/Priyanshu-s9/newsonline.git/static/js/runtime-main.88c1ce26.js.map",
+    "static/js/2.4f350e09.chunk.js": "/Priyanshu-s9/newsonline.git/static/js/2.4f350e09.chunk.js",
+    "static/js/2.4f350e09.chunk.js.map": "/Priyanshu-s9/newsonline.git/static/js/2.4f350e09.chunk.js.map",
+    "static/js/3.85b969af.chunk.js": "/Priyanshu-s9/newsonline.git/static/js/3.85b969af.chunk.js",
+    "static/js/3.85b969af.chunk.js.map": "/Priyanshu-s9/newsonline.git/static/js/3.85b969af.chunk.js.map",
+    "index.html": "/Priyanshu-s9/newsonline.git/index.html",
+    "static/css/main.557dfcf0.chunk.css.map": "/Priyanshu-s9/newsonline.git/static/css/main.557dfcf0.chunk.css.map",
+    "static/js/2.4f350e09.chunk.js.LICENSE.txt": "/Priyanshu-s9/newsonline.git/static/js/2.4f350e09.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88c1ce26.js",
+    "static/js/2.4f350e09.chunk.js",
+    "static/css/main.557dfcf0.chunk.css",
+    "static/js/main.32223722.chunk.js"
+  ]
+}
