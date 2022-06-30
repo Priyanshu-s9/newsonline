@@ -2,7 +2,7 @@
   "name": "projectnews",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://Priyanshu-s9.github.io/newsonline_upload",
+  "homepage":"https://github.com/Priyanshu-s9/newsonline.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
